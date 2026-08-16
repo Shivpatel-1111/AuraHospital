@@ -1,0 +1,42 @@
+<svg viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAF3FA"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="756.0" cy="112.0" r="153.0" fill="#1FAE8C" opacity="0.10"/>
+  <circle cx="90.0" cy="616.0" r="216.0" fill="#1FAE8C" opacity="0.08"/>
+  <!-- aura glow ring behind head -->
+  <circle cx="450.0" cy="244.99999999999997" r="180.0" fill="none" stroke="#1FAE8C" stroke-width="2" opacity="0.30"/>
+  <circle cx="450.0" cy="244.99999999999997" r="211.5" fill="none" stroke="#4FA8DA" stroke-width="1.4" opacity="0.25"/>
+  <!-- coat / body -->
+  <path d="M 180.0 693.0 C 180.0 462.0, 261.0 392.00000000000006, 450.0 392.00000000000006 C 639.0 392.00000000000006, 720.0 462.0, 720.0 693.0 Z" fill="#FFFFFF" stroke="#0B4F8A" stroke-width="6"/>
+  <path d="M 450.0 392.00000000000006 L 450.0 693.0" stroke="#0B4F8A" stroke-width="4" opacity="0.35"/>
+  <rect x="462.0" y="448.0" width="58.5" height="40.5" rx="4" fill="#0B4F8A"/>
+  <path d="M 410.0 392.00000000000006 L 450.0 430.5 L 490.0 392.00000000000006" fill="none" stroke="#0B4F8A" stroke-width="5"/>
+  <!-- stethoscope -->
+  <path d="M 402.0 409.5 C 392.0 497.0, 408.0 553.0, 430.0 539.0 C 446.0 525.0, 448.0 420.0, 448.0 420.0"
+        fill="none" stroke="#17886D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="402.0" cy="409.5" r="7" fill="#17886D"/>
+  <circle cx="430.0" cy="542.5" r="10" fill="none" stroke="#17886D" stroke-width="5"/>
+  <!-- neck -->
+  <rect x="437.0" y="339.5" width="26" height="28" rx="10" fill="#F2C39B"/>
+  <!-- head -->
+  <circle cx="450.0" cy="244.99999999999997" r="112.5" fill="#F2C39B"/>
+  <!-- hair (longer, tied back style) -->
+  <path d="M 328.5 238.00000000000003 C 315.0 133.0, 585.0 133.0, 571.5 238.00000000000003
+           C 567.0 161.0, 333.0 161.0, 328.5 238.00000000000003 Z" fill="#073A66"/>
+  <path d="M 333.0 231.0 C 306.0 280.0, 310.5 322.0, 342.0 343.0"
+        fill="none" stroke="#073A66" stroke-width="27.0" stroke-linecap="round"/>
+  <path d="M 567.0 231.0 C 594.0 280.0, 589.5 322.0, 558.0 343.0"
+        fill="none" stroke="#073A66" stroke-width="27.0" stroke-linecap="round"/>
+  <!-- face -->
+  <circle cx="412.2" cy="246.39999999999998" r="4" fill="#073A66"/>
+  <circle cx="487.8" cy="246.39999999999998" r="4" fill="#073A66"/>
+  <path d="M 424.8 269.5 Q 450.0 278.6 475.2 269.5" fill="none" stroke="#073A66" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 405.0 220.5 Q 423.0 210.0 441.0 220.5" fill="none" stroke="#073A66" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 495.0 220.5 Q 477.0 210.0 459.0 220.5" fill="none" stroke="#073A66" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
